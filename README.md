@@ -10,7 +10,8 @@
   
 -![GitHub Stats](https://github-readme-stats.vercel.app/api?username=zalim-388&show_icons=true&theme=radical)
 
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://linkedin.com/in/your-profile)
+- [![LinkedIn](https://www.linkedin.com/in/salim-a31335351/
+)](https://linkedin.com/in/your-profile)
 
 
 
