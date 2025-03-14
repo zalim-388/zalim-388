@@ -23,8 +23,8 @@
 
 ## 🏗️ Projects  
 Here are some of my featured projects:  
-- 🚀 **Project 1:** [Repo Link]([https://github.com/zalim-388/project1](https://github.com/zalim-388/instagram.git))  
-- 📱 **Project 2:** [Repo Link]([https://github.com/zalim-388/project2](https://github.com/zalim-388/groceries_app.git))  
+- 🚀 **Project 1:** [Repo Link]([https://github.com/zalim-388/instagram.git])  
+- 📱 **Project 2:** [Repo Link]([https://github.com/zalim-388/groceries_app.git])  
 
 *(More projects on my GitHub profile!)*  
 
