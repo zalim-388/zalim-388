@@ -1,4 +1,4 @@
-# Hi 👋, I'm Salim (Zalim-388)
+# Hi 👋, I'm Salim 
 ### 🚀 A passionate **Flutter Developer & Tech Enthusiast** from India 🇮🇳  
 
 ![Profile Views](https://komarev.com/ghpvc/?username=zalim-388&label=Profile%20views&color=0e75b6&style=flat)
@@ -23,10 +23,10 @@
 ---
 
 ## 🔗 **Connect with Me**
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/yourprofile)
-[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/yourprofile)
-[![Facebook](https://img.shields.io/badge/-Facebook-1877F2?style=flat&logo=facebook&logoColor=white)](https://facebook.com/yourprofile)
-[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:your.email@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/salim-a31335351/)
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white)]([https://instagram.com/yourprofile](https://www.instagram.com/zaliiim__?igsh=emg5NTZ3Z3pjNGkz))
+
+[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:your.zaliim388@gmail.com)
 
 ---
 
