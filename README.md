@@ -26,9 +26,9 @@
 ---
 
 ## 🔗 **Connect with Me**
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/yourprofile)
-[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/yourprofile)
-[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:your.email@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](www.linkedin.com/in/zalim388)
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/zaliiim__?igsh=emg5NTZ3Z3pjNGkz)
+[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:your.zaalim388@gmail.com)
 [![X (Twitter)](https://img.shields.io/badge/-X-000000?style=flat&logo=twitter)]([https://twitter.com/yourprofile](https://x.com/zaalim388?t=utLG5FPHyEPqxAdoD9xMuw&s=09https://whatsapp.com/channel/0029Vb3Gslq6hENhWfOcV))
 
 ---
