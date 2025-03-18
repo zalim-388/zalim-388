@@ -25,7 +25,7 @@
 ## 🔗 **Connect with Me**
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/zalim388/)
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/zaliiim__?igsh=emg5NTZ3Z3pjNGkz)
-[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:zaalim388@gmail.com)
+[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:your.zaalim388@gmail.com)
 
 ---
 
@@ -33,9 +33,8 @@
 - 🔥 I’m currently working on **Flutter projects**
 - 🌱 I’m currently learning **Advanced Flutter & Firebase**
 - 💬 Ask me about **Flutter, Firebase, Linux, or Git**
-- 📫 How to reach me: **zaalim388@gmail.com*
+- 📫 How to reach me: **your.zaalim388@gmail.com**
 
 ---
 
 🔥 **“Building the Future, One Line of Code at a Time!”** 🚀
-
