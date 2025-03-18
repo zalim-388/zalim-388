@@ -6,7 +6,8 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=zalim-388&label=Profile%20views&color=0e75b6&style=flat)
 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=zalim-388&theme=dracula&column=7&no-bg=true&no-frame=true&exclude=Issues,PullRequest)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=zalim-388&theme=dracula&column=7&no-bg=true&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
+
 
 ---
 
