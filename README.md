@@ -3,7 +3,8 @@
 - 💡 Building projects...  
 - 🔗 Check out my projects: [GitHub Profile](https://github.com/zalim-388)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=zalim-388&theme=algolia&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=zalim-388&theme=algolia&column=7&rank=SSS,SS,S,AAA,AA,A,B)](https://github.com/ryo-ma/github-profile-trophy)
+
 
 
 
