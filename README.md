@@ -3,7 +3,7 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=zalim-388&label=Profile%20views&color=0e75b6&style=flat)
 
-<img src="https://github.com/zalim-388.png" width="150" height="150" style="border-radius: 50%;" alt="Profile Picture">
+
 
 ---
 
@@ -26,7 +26,7 @@
 
 ## 🔗 **Connect with Me**
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/yourprofile)
-[![X (Twitter)](https://img.shields.io/badge/-X-000000?style=flat&logo=twitter)](https://twitter.com/yourprofile)
+[![X (Twitter)](https://img.shields.io/badge/-X-000000?style=flat&logo=twitter)]([https://twitter.com/yourprofile](https://x.com/zaalim388?t=utLG5FPHyEPqxAdoD9xMuw&s=09https://whatsapp.com/channel/0029Vb3Gslq6hENhWfOcV))
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/yourprofile)
 [![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:your.email@gmail.com)
 
