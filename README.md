@@ -1,33 +1,22 @@
-# 👋 Hi, I'm Salim  
-- 🚀 Flutter Developer  
-- 💡 Building projects...  
-- 🔗 Check out my projects: [GitHub Profile](https://github.com/zalim-388)  
+# Hi 👋, I'm [Your Name]
 
----  
+### 🚀 A passionate [Your Role] from [Your Country]
 
-## 🚀 Skills  
-- **Frameworks & Languages:** Flutter | Dart | Provider | Bloc  
-- **Tools:** Git & GitHub  
+![Profile Views](https://komarev.com/ghpvc/?username=YourUsername&label=Profile%20views&color=0e75b6&style=flat)
 
----  
+## 🔧 Technologies & Tools
+![Flutter](https://img.shields.io/badge/-Flutter-blue?style=flat&logo=flutter)
+![Dart](https://img.shields.io/badge/-Dart-blue?style=flat&logo=dart)
+![Firebase](https://img.shields.io/badge/-Firebase-yellow?style=flat&logo=firebase)
+![HTML5](https://img.shields.io/badge/-HTML5-orange?style=flat&logo=html5)
+![CSS3](https://img.shields.io/badge/-CSS3-blue?style=flat&logo=css3)
 
-## 📊 GitHub Stats  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=zalim-388&show_icons=true&theme=radical)  
+## 📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YourUsername&layout=compact&theme=radical)
 
----  
+## 🔗 Connect with me:
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/yourprofile)
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/yourprofile)
+[![Facebook](https://img.shields.io/badge/-Facebook-1877F2?style=flat&logo=facebook&logoColor=white)](https://facebook.com/yourprofile)
 
-## 🌐 Connect with Me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/salim-a31335351/)  
-
----  
-
-## 🏗️ Projects  
-Here are some of my featured projects:  
-- 🚀 **Project 1:** [Repo Link]([https://github.com/zalim-388/instagram.git])  
-- 📱 **Project 2:** [Repo Link]([https://github.com/zalim-388/groceries_app.git])  
-
-*(More projects on my GitHub profile!)*  
-
----  
-
-💡 *Let's connect and build something amazing!* 🚀
