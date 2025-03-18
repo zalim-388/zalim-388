@@ -8,7 +8,7 @@
 
 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=zalim-388&theme=dracula&column=7&no-bg=true&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=zalim-388&theme=dracula&column=7&no-bg=true&)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 ---
