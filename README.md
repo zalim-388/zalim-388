@@ -1,5 +1,7 @@
-# Hi 👋, I'm Salim (Zalim-388)
-### 🚀 A passionate **Flutter Developer & Tech Enthusiast** from India 🇮🇳  
+# 👋 Hi, I'm Salim  
+- 🚀 Flutter Developer  
+- 💡 Building projects...  
+- 🔗 Check out my projects: [GitHub Profile](https://github.com/zalim-388)  
 
 ![Profile Views](https://komarev.com/ghpvc/?username=zalim-388&label=Profile%20views&color=0e75b6&style=flat)
 
@@ -23,17 +25,10 @@
 ---
 
 ## 🔗 **Connect with Me**
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/zalim388/)
-[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/zaliiim__?igsh=emg5NTZ3Z3pjNGkz)
-[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:your.zaalim388@gmail.com)
-
----
-
-## 🚀 **Current Work & Learning**
-- 🔥 I’m currently working on **Flutter projects**
-- 🌱 I’m currently learning **Advanced Flutter & Firebase**
-- 💬 Ask me about **Flutter, Firebase, Linux, or Git**
-- 📫 How to reach me: **your.zaalim388@gmail.com**
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/zalim388)
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/zaliiim__)
+[![X (Twitter)](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://x.com/zaalim388?t=utLG5FPHyEPqxAdoD9xMuw&s=09)
+[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:zaalim388@gmail.com)
 
 ---
 
