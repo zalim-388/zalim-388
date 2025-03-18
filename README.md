@@ -2,15 +2,9 @@
 - 🚀 Flutter Developer  
 - 💡 Building projects...  
 - 🔗 Check out my projects: [GitHub Profile](https://github.com/zalim-388)
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=zalim-388&theme=dracula&column=7&no-bg=true&no-frame=true&exclude=Issues,PullRequest)](https://github.com/ryo-ma/github-profile-trophy)
-
-
-
-
-
+- 
 ![Profile Views](https://komarev.com/ghpvc/?username=zalim-388&label=Profile%20views&color=0e75b6&style=flat)
-
+[![trophy](https://github-profile-trophy.vercel.app/?username=zalim-388&theme=dracula&column=7&no-bg=true&no-frame=true&exclude=Issues,PullRequest)](https://github.com/ryo-ma/github-profile-trophy)
 ---
 
 ## 🛠 **Tech Stack & Tools**
@@ -18,9 +12,6 @@
 [![Dart](https://img.shields.io/badge/-Dart-0175C2?style=flat&logo=dart&logoColor=white)](https://dart.dev/)
 [![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)](https://firebase.google.com/)
 [![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)](https://git-scm.com/)
-[![trophy](https://github-profile-trophy.vercel.app/?username=zalim-388&theme=radical&column=7)](https://github.com/ryo-ma/github-profile-trophy)
-
-
 
 ---
 
