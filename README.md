@@ -26,6 +26,7 @@
 ---
 
 ## 🔗 **Connect with Me**
+https://zalim-388.github.io/portfolio_/
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/zalim388)
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/zaliiim__)
 [![X (Twitter)](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://x.com/zaalim388?t=utLG5FPHyEPqxAdoD9xMuw&s=09)
