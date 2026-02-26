@@ -1,173 +1,124 @@
-# 🎨 5 Different "About Me" Styles for Salim's README
-# Copy the one you like best into your README.md
+<div align="center">
 
-# ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-# STYLE 1 — 🖥️ TERMINAL / HACKER STYLE
-# ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+<!-- ANIMATED HEADER -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Hi%20There!%20I'm%20Salim%20👋&fontSize=42&fontAlignY=35&desc=Flutter%20Developer%20%7C%20Building%20the%20Future&descSize=18&descAlignY=55&animation=fadeIn&fontColor=ffffff" width="100%"/>
 
-## 🖥️ About Me
+<!-- PROFILE VIEWS & BADGES -->
+<p>
+  <img src="https://komarev.com/ghpvc/?username=zalim-388&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views"/>
+  <img src="https://img.shields.io/github/followers/zalim-388?style=for-the-badge&color=00d4ff&labelColor=0d1117&label=Followers" alt="Followers"/>
+</p>
 
-```bash
-┌──(salim㉿dev)-[~/world]
-└─$ whoami
+</div>
 
-  NAME     : Salim
-  ROLE     : Flutter Developer
-  STATUS   : Building... 🔥
-  LOCATION : Everywhere 🌍
+---
 
-┌──(salim㉿dev)-[~/skills]
-└─$ ls -la
+## 🚀 About Me
 
-  drwxr-xr-x  flutter/
-  drwxr-xr-x  dart/
-  drwxr-xr-x  firebase/
-  drwxr-xr-x  git/
-  drwxr-xr-x  figma/
-  drwxr-xr-x  rest-api/
+```dart
+class SalimDeveloper {
+  final String name     = "Salim";
+  final String role     = "Flutter Developer";
+  final String location = "🌍 Building Everywhere";
 
-┌──(salim㉿dev)-[~/goals]
-└─$ cat current.txt
+  final List<String> currentlyBuilding = [
+    "🔥 Cross-platform mobile apps",
+    "⚡ Firebase-powered backends",
+    "🎨 Beautiful UI/UX experiences",
+  ];
 
-  [x] Build beautiful cross-platform apps
-  [x] Master Firebase backend
-  [ ] Ship next big project 🚀
-  [ ] Inspire other developers
+  final Map<String, String> contact = {
+    "portfolio" : "zalim-388.github.io/portfolio_",
+    "email"     : "zaalim388@gmail.com",
+    "linkedin"  : "linkedin.com/in/zalim388",
+  };
 
-┌──(salim㉿dev)-[~]
-└─$ echo $MOTTO
-  "Building the Future, One Line of Code at a Time! 🚀"
+  String get motto => "Building the Future, One Line of Code at a Time! 🚀";
+}
 ```
 
+---
 
-# ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-# STYLE 2 — 📋 RESUME / CARD STYLE
-# ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-## 👨‍💻 About Me
-
-<table>
-<tr>
-<td width="55%">
-
-### 🧑 Salim — Flutter Developer
-
-> Passionate mobile developer who turns ideas into **beautiful, fast, cross-platform apps** using Flutter & Dart.
-
-| | |
-|---|---|
-| 🔭 **Currently** | Building mobile apps |
-| 🌱 **Learning** | Advanced Flutter patterns |
-| 💬 **Ask me about** | Flutter, Dart, Firebase |
-| 📫 **Reach me** | zaalim388@gmail.com |
-| ⚡ **Fun fact** | I debug with print() 😄 |
-| 🟢 **Status** | Open to work! |
-
-</td>
-<td width="45%" align="center">
-
-<img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="200" alt="flutter"/>
-
-![Focus](https://img.shields.io/badge/Focus-Flutter-02569B?style=flat-square&logo=flutter)
-![Open](https://img.shields.io/badge/Open%20To-Work-brightgreen?style=flat-square)
-
-</td>
-</tr>
-</table>
-
-
-# ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-# STYLE 3 — 🎮 GAME / RPG CHARACTER STYLE
-# ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-## ⚔️ About Me
-
-```
-╔══════════════════════════════════════════════╗
-║           ⚔️  DEVELOPER CARD ⚔️              ║
-╠══════════════════════════════════════════════╣
-║  NAME    :  Salim                            ║
-║  CLASS   :  Flutter Developer  🐦            ║
-║  LEVEL   :  ████████░░  80/100               ║
-║  XP      :  Building cross-platform apps     ║
-╠══════════════════════════════════════════════╣
-║  SKILLS                                      ║
-║  Flutter    ███████████  ★★★★★              ║
-║  Dart       ██████████░  ★★★★☆              ║
-║  Firebase   █████████░░  ★★★★☆              ║
-║  UI/UX      ████████░░░  ★★★☆☆              ║
-║  Git        ████████░░░  ★★★☆☆              ║
-╠══════════════════════════════════════════════╣
-║  QUEST     :  🚀 Ship next big app           ║
-║  GUILD     :  Open Source Community          ║
-║  STATUS    :  🟢 Active & Available          ║
-╚══════════════════════════════════════════════╝
-```
-
-
-# ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-# STYLE 4 — 🌊 MINIMAL WAVE STYLE (Clean & Modern)
-# ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-## 🌊 About Me
+## 🛠️ Tech Stack & Tools
 
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Space+Mono&size=18&duration=2500&pause=600&color=00D4FF&center=true&vCenter=true&width=500&lines=📱+Mobile+App+Developer;🐦+Flutter+%26+Dart+Lover;🔥+Firebase+Enthusiast;🚀+Always+Building+Something!" alt="Typing" />
+
+<!-- Flutter & Dart -->
+<img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white"/>
+<img src="https://img.shields.io/badge/Dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white"/>
+<img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+<img src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white"/>
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
+<img src="https://img.shields.io/badge/REST%20API-02569B?style=for-the-badge&logo=fastapi&logoColor=white"/>
+<img src="https://img.shields.io/badge/Provider-764ABC?style=for-the-badge&logo=dart&logoColor=white"/>
+<img src="https://img.shields.io/badge/GetX-8A2BE2?style=for-the-badge&logo=dart&logoColor=white"/>
+
 </div>
+
+---
+
+## 📊 GitHub Statistics
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=zalim-388&show_icons=true&theme=transparent&title_color=00d4ff&icon_color=7c3aff&text_color=ffffff&border_color=00d4ff30&border_radius=16&bg_color=0d1117&count_private=true&include_all_commits=true"/>
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=zalim-388&theme=transparent&border=00d4ff30&ring=00d4ff&fire=ff6b35&currStreakLabel=00d4ff&sideLabels=7c3aff&background=0d1117&border_radius=16"/>
 
 <br/>
 
-```
-   🙋 Hi, I'm Salim!
-
-   A passionate Flutter developer who loves
-   crafting pixel-perfect mobile experiences.
-
-   💼  Role      →  Flutter Developer
-   📍  Based     →  Building Everywhere 🌍
-   🔥  Passion   →  Beautiful Mobile UI
-   📚  Learning  →  New Flutter patterns daily
-   🤝  Open to   →  Freelance & Collaborations
-   📧  Contact   →  zaalim388@gmail.com
-```
-
-<div align="center">
-
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Visit_Now-0d1117?style=for-the-badge)](https://zalim-388.github.io/portfolio_/)
-[![Email](https://img.shields.io/badge/📧_Email-Hire_Me-D14836?style=for-the-badge)](mailto:zaalim388@gmail.com)
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zalim-388&layout=compact&theme=transparent&title_color=00d4ff&text_color=ffffff&border_color=00d4ff30&border_radius=16&bg_color=0d1117&langs_count=8"/>
+<img width="49%" src="https://github-profile-trophy.vercel.app/?username=zalim-388&theme=onestar&no-frame=true&margin-w=8&margin-h=8&row=2&column=3"/>
 
 </div>
 
+---
 
-# ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-# STYLE 5 — 📱 PHONE / MOCKUP STYLE
-# ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+## 📈 Contribution Graph
 
-## 📱 About Me
+<div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=zalim-388&bg_color=0d1117&color=00d4ff&line=7c3aff&point=ff6b35&area=true&area_color=00d4ff&hide_border=true&radius=16" width="100%"/>
+</div>
 
-<img align="right" src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif" width="200"/>
+---
 
-```
-┏━━━━━━━━━━━━━━━━━━━━━━━┓
-┃  📱  Flutter Dev App  ┃
-┃  ─────────────────    ┃
-┃  👤  Salim            ┃
-┃  💼  Flutter Dev      ┃
-┃  🌍  Everywhere       ┃
-┃                       ┃
-┃  ── Currently ──      ┃
-┃  🔨 Building apps     ┃
-┃  📖 Learning daily    ┃
-┃  🤝 Open to work      ┃
-┃                       ┃
-┃  ── Stack ──          ┃
-┃  🐦 Flutter  ✅       ┃
-┃  🎯 Dart     ✅       ┃
-┃  🔥 Firebase ✅       ┃
-┃                       ┃
-┃  📧 zaalim388         ┃
-┃     @gmail.com        ┃
-┗━━━━━━━━━━━━━━━━━━━━━━━┛
-```
+## 🌐 Connect With Me
 
-<br clear="right"/>
+<div align="center">
+
+<a href="https://zalim-388.github.io/portfolio_/">
+  <img src="https://img.shields.io/badge/🌐%20Portfolio-0d1117?style=for-the-badge&logoColor=white"/>
+</a>
+<a href="https://www.linkedin.com/in/zalim388">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="https://x.com/zaalim388">
+  <img src="https://img.shields.io/badge/X%20(Twitter)-000000?style=for-the-badge&logo=x&logoColor=white"/>
+</a>
+<a href="https://www.instagram.com/zaliiim__">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+<a href="mailto:zaalim388@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+<a href="https://github.com/zalim-388">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+
+>
+
+---
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=fadeIn" width="100%"/>
+
+**🔥 "Building the Future, One Line of Code at a Time!" 🚀**
+
+</div>
