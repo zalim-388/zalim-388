@@ -13,28 +13,21 @@
 
 ---
 
-## 🚀 About Me
+<img align="right" src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif" width="200"/>
+/td>
+<td width="45%" align="center">
 
-```dart
-class SalimDeveloper {
-  final String name     = "Salim";
-  final String role     = "Flutter Developer";
-  final String location = "🌍 Building Everywhere";
+<img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="200" alt="flutter"/>
 
-  final List<String> currentlyBuilding = [
-    "🔥 Cross-platform mobile apps",
-    "⚡ Firebase-powered backends",
-    "🎨 Beautiful UI/UX experiences",
-  ];
+![Focus](https://img.shields.io/badge/Focus-Flutter-02569B?style=flat-square&logo=flutter)
+![Open](https://img.shields.io/badge/Open%20To-Work-brightgreen?style=flat-square)
 
-  final Map<String, String> contact = {
-    "portfolio" : "zalim-388.github.io/portfolio_",
-    "email"     : "zaalim388@gmail.com",
-    "linkedin"  : "linkedin.com/in/zalim388",
-  };
+</td>
+</tr>
+</table>
+
 
   String get motto => "Building the Future, One Line of Code at a Time! 🚀";
-}
 ```
 
 ---
