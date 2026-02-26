@@ -13,10 +13,6 @@
 
 ---
 
-<img align="right" src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif" width="200"/>
-
-<td width="45%" align="center">
-
 <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="200" alt="flutter"/>
 
 ![Focus](https://img.shields.io/badge/Focus-Flutter-02569B?style=flat-square&logo=flutter)
