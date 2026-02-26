@@ -9,20 +9,68 @@
   <img src="https://img.shields.io/github/followers/zalim-388?style=for-the-badge&color=00d4ff&labelColor=0d1117&label=Followers" alt="Followers"/>
 </p>
 
+<!-- TYPING ANIMATION -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Space+Mono&size=20&duration=2800&pause=700&color=00D4FF&center=true&vCenter=true&width=620&lines=🚀+Flutter+Developer;🎯+Dart+%26+Firebase+Enthusiast;💡+Crafting+Beautiful+Mobile+Apps;🔥+One+Widget+at+a+Time!" alt="Typing SVG"/>
+</a>
+
 </div>
 
 ---
 
-<img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="200" alt="flutter"/>
+## 🚀 About Me
 
-![Focus](https://img.shields.io/badge/Focus-Flutter-02569B?style=flat-square&logo=flutter)
-![Open](https://img.shields.io/badge/Open%20To-Work-brightgreen?style=flat-square)
+<div align="center">
 
+<img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="220" alt="flutter coding gif"/>
 
+<br/><br/>
 
+![Focus](https://img.shields.io/badge/Focus-Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Open](https://img.shields.io/badge/Open%20To-Work%20✅-brightgreen?style=for-the-badge)
+![Mood](https://img.shields.io/badge/Mood-Always%20Building%20🔥-ff6b35?style=for-the-badge)
 
+</div>
 
+<br/>
+
+```dart
+class SalimDeveloper {
+
+  final String name     = "Salim";
+  final String role     = "📱 Flutter Developer";
+  final String location = "🌍 Building Everywhere";
+
+  final List<String> currentlyBuilding = [
+    "🔥 Cross-platform mobile apps",
+    "⚡ Firebase-powered backends",
+    "🎨 Beautiful UI/UX experiences",
+  ];
+
+  final Map<String, String> contact = {
+    "portfolio" : "zalim-388.github.io/portfolio_",
+    "email"     : "zaalim388@gmail.com",
+    "linkedin"  : "linkedin.com/in/zalim388",
+  };
+
+  final bool openToWork = true; // ✅ Available!
+
+  String get motto =>
+      "Building the Future, One Line of Code at a Time! 🚀";
+}
 ```
+
+<div align="center">
+
+| | |
+|---|---|
+| 🔭 **Currently** | Building cross-platform apps |
+| 🌱 **Learning** | Advanced Flutter & Clean Architecture |
+| 💬 **Ask me about** | Flutter · Dart · Firebase |
+| ⚡ **Fun fact** | I debug with `print()` 😄 |
+| 📫 **Reach me** | zaalim388@gmail.com |
+
+</div>
 
 ---
 
@@ -30,7 +78,6 @@
 
 <div align="center">
 
-<!-- Flutter & Dart -->
 <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white"/>
 <img src="https://img.shields.io/badge/Dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white"/>
 <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
@@ -98,8 +145,12 @@
 
 ---
 
+<div align="center">
 
->
+### 💡 Random Dev Quote
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&border=true" width="80%"/>
+
+</div>
 
 ---
 
