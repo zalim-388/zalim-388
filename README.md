@@ -32,45 +32,6 @@
 
 <br/>
 
-```dart
-class SalimDeveloper {
-
-  final String name     = "Salim";
-  final String role     = "📱 Flutter Developer";
-  final String location = "🌍 Building Everywhere";
-
-  final List<String> currentlyBuilding = [
-    "🔥 Cross-platform mobile apps",
-    "⚡ Firebase-powered backends",
-    "🎨 Beautiful UI/UX experiences",
-  ];
-
-  final Map<String, String> contact = {
-    "portfolio" : "zalim-388.github.io/portfolio_",
-    "email"     : "zaalim388@gmail.com",
-    "linkedin"  : "linkedin.com/in/zalim388",
-  };
-
-  final bool openToWork = true; // ✅ Available!
-
-  String get motto =>
-      "Building the Future, One Line of Code at a Time! 🚀";
-}
-```
-
-<div align="center">
-
-| | |
-|---|---|
-| 🔭 **Currently** | Building cross-platform apps |
-| 🌱 **Learning** | Advanced Flutter & Clean Architecture |
-| 💬 **Ask me about** | Flutter · Dart · Firebase |
-| ⚡ **Fun fact** | I debug with `print()` 😄 |
-| 📫 **Reach me** | zaalim388@gmail.com |
-
-</div>
-
----
 
 ## 🛠️ Tech Stack & Tools
 
