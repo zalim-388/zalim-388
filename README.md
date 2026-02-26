@@ -9,12 +9,14 @@
   <img src="https://img.shields.io/github/followers/zalim-388?style=for-the-badge&color=00d4ff&labelColor=0d1117&label=Followers" alt="Followers"/>
 </p>
 
-<!-- TYPING ANIMATION -->
+<!-- TYPING ANIMATION — LIVE ✅ -->
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=00D4FF&center=true&vCenter=true&width=650&height=50&lines=Flutter+Developer;Dart+%26+Firebase+Enthusiast;Building+Beautiful+Mobile+Apps;One+Widget+at+a+Time!" alt="Typing SVG"/>
 
 </div>
 
 ---
+
+## 🚀 About Me
 
 <div align="center">
 
@@ -23,13 +25,52 @@
 <br/><br/>
 
 ![Focus](https://img.shields.io/badge/Focus-Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Open](https://img.shields.io/badge/Open%20To-Work%20✅-brightgreen?style=for-the-badge)
-![Mood](https://img.shields.io/badge/Mood-Always%20Building%20🔥-ff6b35?style=for-the-badge)
+![Open](https://img.shields.io/badge/Open%20To-Work-brightgreen?style=for-the-badge&logo=checkmarx&logoColor=white)
+![Mood](https://img.shields.io/badge/Mood-Always%20Building-ff6b35?style=for-the-badge&logo=fire&logoColor=white)
 
 </div>
 
 <br/>
 
+```dart
+class SalimDeveloper {
+
+  final String name     = "Salim";
+  final String role     = "📱 Flutter Developer";
+  final String location = "🌍 Building Everywhere";
+
+  final List<String> currentlyBuilding = [
+    "🔥 Cross-platform mobile apps",
+    "⚡ Firebase-powered backends",
+    "🎨 Beautiful UI/UX experiences",
+  ];
+
+  final Map<String, String> contact = {
+    "portfolio" : "zalim-388.github.io/portfolio_",
+    "email"     : "zaalim388@gmail.com",
+    "linkedin"  : "linkedin.com/in/zalim388",
+  };
+
+  final bool openToWork = true; // ✅ Available!
+
+  String get motto =>
+      "Building the Future, One Line of Code at a Time! 🚀";
+}
+```
+
+<div align="center">
+
+| | |
+|---|---|
+| 🔭 **Currently** | Building cross-platform apps |
+| 🌱 **Learning** | Advanced Flutter & Clean Architecture |
+| 💬 **Ask me about** | Flutter · Dart · Firebase |
+| ⚡ **Fun fact** | I debug with `print()` 😄 |
+| 📫 **Reach me** | zaalim388@gmail.com |
+
+</div>
+
+---
 
 ## 🛠️ Tech Stack & Tools
 
@@ -70,7 +111,19 @@
 ## 📈 Contribution Graph
 
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=zalim-388&bg_color=0d1117&color=00d4ff&line=7c3aff&point=ff6b35&area=true&area_color=00d4ff&hide_border=true&radius=16" width="100%"/>
+
+<!-- LIVE ACTIVITY GRAPH — auto updates daily ✅ -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=zalim-388&bg_color=0d1117&color=00d4ff&line=7c3aff&point=ff6b35&area=true&hide_border=true&custom_title=Salim%27s%20Contribution%20Graph" width="100%" alt="Contribution Graph"/>
+
+<br/><br/>
+
+<!-- LIVE SNAKE ANIMATION — auto updates via GitHub Actions ✅ -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/zalim-388/zalim-388/output/github-contribution-grid-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/zalim-388/zalim-388/output/github-contribution-grid-snake.svg"/>
+  <img alt="Snake animation" src="https://raw.githubusercontent.com/zalim-388/zalim-388/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+</picture>
+
 </div>
 
 ---
@@ -80,13 +133,13 @@
 <div align="center">
 
 <a href="https://zalim-388.github.io/portfolio_/">
-  <img src="https://img.shields.io/badge/🌐%20Portfolio-0d1117?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Portfolio-0d1117?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 <a href="https://www.linkedin.com/in/zalim388">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 <a href="https://x.com/zaalim388">
-  <img src="https://img.shields.io/badge/X%20(Twitter)-000000?style=for-the-badge&logo=x&logoColor=white"/>
+  <img src="https://img.shields.io/badge/X%20Twitter-000000?style=for-the-badge&logo=x&logoColor=white"/>
 </a>
 <a href="https://www.instagram.com/zaliiim__">
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
@@ -102,7 +155,12 @@
 
 ---
 
+<div align="center">
 
+### 💡 Random Dev Quote
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&border=true" width="80%"/>
+
+</div>
 
 ---
 
