@@ -9,16 +9,24 @@
   <img src="https://img.shields.io/github/followers/zalim-388?style=for-the-badge&color=00d4ff&labelColor=0d1117&label=Followers" alt="Followers"/>
 </p>
 
+<!-- ANIMATED TYPING -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Space+Mono&size=22&duration=3000&pause=800&color=00D4FF&center=true&vCenter=true&multiline=false&width=600&lines=🚀+Flutter+Developer;🎯+Dart+%26+Firebase+Enthusiast;💡+Building+Beautiful+Mobile+Apps;🔥+One+Widget+at+a+Time!" alt="Typing SVG" />
+</a>
+
 </div>
 
 ---
 
 ## 🚀 About Me
 
+<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="260" alt="coding gif"/>
+
 ```dart
 class SalimDeveloper {
+
   final String name     = "Salim";
-  final String role     = "Flutter Developer";
+  final String role     = "📱 Flutter Developer";
   final String location = "🌍 Building Everywhere";
 
   final List<String> currentlyBuilding = [
@@ -33,9 +41,23 @@ class SalimDeveloper {
     "linkedin"  : "linkedin.com/in/zalim388",
   };
 
-  String get motto => "Building the Future, One Line of Code at a Time! 🚀";
+  final bool openToWork = true; // ✅ Available!
+
+  String get motto =>
+    "Building the Future, One Line at a Time! 🚀";
 }
 ```
+
+<br clear="right"/>
+
+<!-- ANIMATED STATUS BADGES -->
+<div align="center">
+
+![Status](https://img.shields.io/badge/Status-Open%20to%20Work-brightgreen?style=for-the-badge&logo=checkmarx&logoColor=white)
+![Focus](https://img.shields.io/badge/Focus-Flutter%20%26%20Firebase-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Mood](https://img.shields.io/badge/Mood-Building%20🔥-ff6b35?style=for-the-badge)
+
+</div>
 
 ---
 
@@ -43,7 +65,6 @@ class SalimDeveloper {
 
 <div align="center">
 
-<!-- Flutter & Dart -->
 <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white"/>
 <img src="https://img.shields.io/badge/Dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white"/>
 <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
@@ -111,8 +132,12 @@ class SalimDeveloper {
 
 ---
 
+<div align="center">
 
->
+### 💡 Random Dev Quote
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&border=true" width="80%"/>
+
+</div>
 
 ---
 
