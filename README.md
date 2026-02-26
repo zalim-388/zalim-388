@@ -22,12 +22,10 @@
 ![Focus](https://img.shields.io/badge/Focus-Flutter-02569B?style=flat-square&logo=flutter)
 ![Open](https://img.shields.io/badge/Open%20To-Work-brightgreen?style=flat-square)
 
-</td>
-</tr>
-</table>
 
 
-  String get motto => "Building the Future, One Line of Code at a Time! 🚀";
+
+
 ```
 
 ---
