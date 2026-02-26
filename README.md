@@ -111,12 +111,7 @@ class SalimDeveloper {
 
 ---
 
-<div align="center">
 
-<!-- SNAKE ANIMATION - enable in your repo's Actions -->
-<img src="https://raw.githubusercontent.com/zalim-388/zalim-388/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" onerror="this.style.display='none'"/>
-
-</div>
 
 ---
 
