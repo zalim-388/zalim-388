@@ -67,14 +67,6 @@
 
 ---
 
-## 📈 Contribution Graph
-
-<div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=zalim-388&bg_color=0d1117&color=00d4ff&line=7c3aff&point=ff6b35&area=true&area_color=00d4ff&hide_border=true&radius=16" width="100%"/>
-</div>
-
----
-
 ## 🌐 Connect With Me
 
 <div align="center">
