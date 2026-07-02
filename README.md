@@ -10,9 +10,7 @@
 </p>
 
 <!-- TYPING ANIMATION -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=00D4FF&center=true&vCenter=true&width=650&height=50&lines=Flutter+Developer;Dart+%26+Firebase+Enthusiast;Building+Beautiful+Mobile+Apps;One+Widget+at+a+Time!" alt="Typing SVG"/>
-
-</div>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=00D4FF&center=true&vCenter=true&width=650&height=50&lines=Flutter+Developer" alt="Typing SVG"/>
 
 ---
 
